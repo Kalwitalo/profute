@@ -1,5 +1,0 @@
-build:
-  docker:
-    db: Dockerfile.db
-    backend: /backend/profute/Dockerfile.backend
-    frontend: /frontend/Dockerfile.frontend
